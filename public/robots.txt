@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://basswin-uk.uk.com/sitemap.xml
+Sitemap: https://daily-luck.uk/sitemap.xml

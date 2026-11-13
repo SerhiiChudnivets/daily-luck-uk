@@ -37,60 +37,60 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
-          "name": "Threefold the Gold",
-          "Name": "Threefold the Gold",
-          "logo_alt": "threefold the gold"
+          "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+          "name": "Penalty Shoot",
+          "Name": "Penalty Shoot",
+          "logo_alt": "Penalty Shoot"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
-          "name": "Thai blossoms",
-          "Name": "Thai blossoms",
-          "logo_alt": "thai blossoms"
+          "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+          "name": "Stormforged",
+          "Name": "Stormforged",
+          "logo_alt": "stormforged"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/196b5b9d9619ba1a1c1d76d35442cddb.webp",
-          "name": " Crown of secret",
-          "Name": " Crown of secret",
-          "logo_alt": "crown of secret"
+          "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+          "name": "Razor Shark",
+          "Name": "Razor Shark",
+          "logo_alt": "Razor Shark"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
-          "name": " Serpent gold",
-          "Name": " Serpent gold",
-          "logo_alt": "serpent gold"
+          "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
+          "name": "JetX",
+          "Name": "JetX",
+          "logo_alt": "JetX"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
           "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-          "name": "1st Deposit: 100% up to £450",
-          "Name": "1st Deposit: 100% up to £450",
+          "name": "Welcome Bonus: 150% + 100 FS from €25",
+          "Name": "Welcome Bonus: 150% + 100 FS from €25",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-          "name": "2nd Deposit: 150% up to £450",
-          "Name": "2nd Deposit: 150% up to £450",
+          "name": "Welcome Bonus: 150% + 150 FS from €75",
+          "Name": "Welcome Bonus: 150% + 150 FS from €75",
           "logo_alt": "Reload Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-          "name": "3rd Deposit: 200% up to £450",
-          "Name": "3rd Deposit: 200% up to £450",
+          "name": "Weekly Cashback: up to 15%",
+          "Name": "Weekly Cashback: up to 15%",
           "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-          "name": "Welcome Package: 100% up to £450",
-          "Name": "Welcome Package: 100% up to £450",
+          "name": "Daily Prize Draw: 10,000 FS",
+          "Name": "Daily Prize Draw: 10,000 FS",
           "logo_alt": "Cashback Bonus"
         }
       ],
@@ -119,42 +119,42 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "Is Basswin Casino safe for UK players?",
+        "name": "Which DailyLuck bonus should I choose?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes, our casino is fully legitimate and safe. We implement 128-bit SSL encryption, firewalls, and certified Random Number Generators to protect player data and maintain fair gaming standards."
+          "text": "With a small deposit, the 150% + 100 FS option from €25 gives the best value: the same bonus money as the €50 option, but twice the free spins. The 150% + 150 FS option from €75 gives the biggest bonus overall."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the minimum withdrawal amount at Basswin Casino?",
+        "name": "How fast is a DailyLuck withdrawal?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The minimum cashout limit depends on your chosen payment method. For debit cards (Visa/Mastercard) and e-wallets, the minimum withdrawal is £20. Bank transfers require a minimum request of £50.\n"
+          "text": "Requests are usually processed within 36 hours. Withdrawals above €1,000 go through an extra check that normally takes up to 72 hours."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I complete my Basswin Casino login on a mobile device?",
+        "name": "Can I win DailyLuck free spins without a deposit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Visit our official site using any mobile browser or open the installed Basswin application, tap the Login button at the top of the screen, and enter your registered email address and password."
+          "text": "There is no standard no deposit bonus, but the Daily Prize Draw shares 10,000 free spins among players who are active during the draw period."
         }
       },
       {
         "@type": "Question",
-        "name": "Can I play live dealer games on the Basswin app?",
+        "name": "Is there a DailyLuck app?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes, Basswin’s live casino portfolio is fully optimized for mobile devices. You can stream live blackjack, roulette, and game shows directly through our mobile browser portal or the dedicated application."
+          "text": "No download is needed. The site works fully in the mobile browser, and you can pin it to your home screen for one-tap access."
         }
       },
       {
         "@type": "Question",
-        "name": "How long does a Basswin Casino withdrawal take to process?",
+        "name": "Is Daily Luck the same casino as DailyLuck?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Once your account is verified, e-wallet and cryptocurrency withdrawals are usually processed within 24 hours. Debit card payouts and bank transfers typically settle within 1 to 5 business days."
+          "text": "Yes. The name is written in both ways, but it is the same brand, the same site and the same promotions."
         }
       }
     ]
@@ -170,8 +170,8 @@
   "footer_text": "© 2026. DailyLuck Casino. All rights reserved",
   "popup_text": "150% + 150 FS AND 15% WEEKLY CASHBACK",
   "faq_title": "Frequently Asked Questions (FAQ)",
-  "login_text": "Login",
-  "register_text": "Register",
+  "login_text": "Log in",
+  "register_text": "Sign up",
   "slots_title": "Slots, Live Casino and Virtual Sport",
   "bonus_title": "Welcome Bonus, Prize Draws and Cashback",
   "get_bonus_btn_text": "Claim Bonus",
@@ -289,88 +289,88 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
-      "name": "Threefold the Gold",
-      "Name": "Threefold the Gold",
-      "logo_alt": "threefold the gold"
+      "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+      "name": "Penalty Shoot",
+      "Name": "Penalty Shoot",
+      "logo_alt": "Penalty Shoot"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
-      "name": "Thai blossoms",
-      "Name": "Thai blossoms",
-      "logo_alt": "thai blossoms"
+      "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+      "name": "Stormforged",
+      "Name": "Stormforged",
+      "logo_alt": "stormforged"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/196b5b9d9619ba1a1c1d76d35442cddb.webp",
-      "name": " Crown of secret",
-      "Name": " Crown of secret",
-      "logo_alt": "crown of secret"
+      "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+      "name": "Razor Shark",
+      "Name": "Razor Shark",
+      "logo_alt": "Razor Shark"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
-      "name": " Serpent gold",
-      "Name": " Serpent gold",
-      "logo_alt": "serpent gold"
+      "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
+      "name": "JetX",
+      "Name": "JetX",
+      "logo_alt": "JetX"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
       "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-      "name": "1st Deposit: 100% up to £450",
-      "Name": "1st Deposit: 100% up to £450",
+      "name": "Welcome Bonus: 150% + 100 FS from €25",
+      "Name": "Welcome Bonus: 150% + 100 FS from €25",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-      "name": "2nd Deposit: 150% up to £450",
-      "Name": "2nd Deposit: 150% up to £450",
+      "name": "Welcome Bonus: 150% + 150 FS from €75",
+      "Name": "Welcome Bonus: 150% + 150 FS from €75",
       "logo_alt": "Reload Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-      "name": "3rd Deposit: 200% up to £450",
-      "Name": "3rd Deposit: 200% up to £450",
+      "name": "Weekly Cashback: up to 15%",
+      "Name": "Weekly Cashback: up to 15%",
       "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-      "name": "Welcome Package: 100% up to £450",
-      "Name": "Welcome Package: 100% up to £450",
+      "name": "Daily Prize Draw: 10,000 FS",
+      "Name": "Daily Prize Draw: 10,000 FS",
       "logo_alt": "Cashback Bonus"
     }
   ],
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "Yes, our casino is fully legitimate and safe. We implement 128-bit SSL encryption, firewalls, and certified Random Number Generators to protect player data and maintain fair gaming standards.",
-      "question": "Is Basswin Casino safe for UK players?"
+      "answer": "With a small deposit, the 150% + 100 FS option from €25 gives the best value: the same bonus money as the €50 option, but twice the free spins. The 150% + 150 FS option from €75 gives the biggest bonus overall.",
+      "question": "Which DailyLuck bonus should I choose?"
     },
     {
-      "answer": "The minimum cashout limit depends on your chosen payment method. For debit cards (Visa/Mastercard) and e-wallets, the minimum withdrawal is £20. Bank transfers require a minimum request of £50.\n",
-      "question": "What is the minimum withdrawal amount at Basswin Casino?"
+      "answer": "Requests are usually processed within 36 hours. Withdrawals above €1,000 go through an extra check that normally takes up to 72 hours.",
+      "question": "How fast is a DailyLuck withdrawal?"
     },
     {
-      "answer": "Visit our official site using any mobile browser or open the installed Basswin application, tap the Login button at the top of the screen, and enter your registered email address and password.",
-      "question": "How do I complete my Basswin Casino login on a mobile device?"
+      "answer": "There is no standard no deposit bonus, but the Daily Prize Draw shares 10,000 free spins among players who are active during the draw period.",
+      "question": "Can I win DailyLuck free spins without a deposit?"
     },
     {
-      "answer": "Yes, Basswin’s live casino portfolio is fully optimized for mobile devices. You can stream live blackjack, roulette, and game shows directly through our mobile browser portal or the dedicated application.",
-      "question": "Can I play live dealer games on the Basswin app?"
+      "answer": "No download is needed. The site works fully in the mobile browser, and you can pin it to your home screen for one-tap access.",
+      "question": "Is there a DailyLuck app?"
     },
     {
-      "answer": "Once your account is verified, e-wallet and cryptocurrency withdrawals are usually processed within 24 hours. Debit card payouts and bank transfers typically settle within 1 to 5 business days.",
-      "question": "How long does a Basswin Casino withdrawal take to process?"
+      "answer": "Yes. The name is written in both ways, but it is the same brand, the same site and the same promotions.",
+      "question": "Is Daily Luck the same casino as DailyLuck?"
     }
   ],
-  "_generated_at": "2026-11-13T15:24:32.072Z",
+  "_generated_at": "2026-11-13T16:14:10.405Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-13T15:24:32.794Z",
-  "_deploy_trigger": "iat7bn"
+  "_last_deploy": "2026-11-13T16:14:11.040Z",
+  "_deploy_trigger": "tsjt86"
 }

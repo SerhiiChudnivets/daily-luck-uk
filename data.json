@@ -25,14 +25,14 @@
       "heroBadge": "DailyLuck Casino – Prize Draws Every Day",
       "ctaText": "Get Bonus",
       "tagline": "GET UP TO 150% + 150 FS",
-      "heroImage": "",
+      "heroImage": "/uploads/DailyLuck-baner.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
       "faqTitle": "Frequently Asked Questions (FAQ)",
       "popupText": "150% + 150 FS AND 15% WEEKLY CASHBACK",
-      "popupLogo": "",
+      "popupLogo": "/uploads/dailyluck-logo1.svg",
       "sections": null,
       "slots": [
         {
@@ -103,8 +103,10 @@
       "globalSlotSet": null,
       "globalReviewSet": null,
       "popup_text": "150% + 150 FS AND 15% WEEKLY CASHBACK",
+      "popup_logo": "/uploads/dailyluck-logo1.svg",
       "hero_title": "DailyLuck Casino UK – Luck That Comes Back Every Day",
       "hero_subtitle": "NEW DAY, NEW LUCK",
+      "hero_image": "/uploads/DailyLuck-baner.webp",
       "seo_title": "DailyLuck Casino UK – Prize Draws & 150 Free Spins",
       "seo_description": "DailyLuck casino guide: welcome bonus up to 150% + 150 free spins, weekly cashback up to 15%, daily prize draws with 10,000 FS, payments and withdrawal limits.",
       "html_head": "<link rel=\"canonical\" href=\"https://daily-luck.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://daily-luck.uk/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://daily-luck.uk/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"DailyLuck Casino UK – Prize Draws & 150 Free Spins\">\n<meta property=\"og:description\" content=\"DailyLuck casino guide: welcome bonus up to 150% + 150 free spins, weekly cashback up to 15%, daily prize draws with 10,000 FS, payments and withdrawal limits.\">\n<meta property=\"og:url\" content=\"https://daily-luck.uk/en-gb/\">\n<meta property=\"og:site_name\" content=\"DailyLuck Casino\">\n<meta property=\"og:image\" content=\"https://dailyluckcasino.nl/uploads/dailyluck-baner1-copy.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"DailyLuck Casino UK – Prize Draws & 150 Free Spins\">\n<meta name=\"twitter:description\" content=\"DailyLuck casino guide: welcome bonus up to 150% + 150 free spins, weekly cashback up to 15%, daily prize draws with 10,000 FS, payments and withdrawal limits.\">\n<meta name=\"twitter:image\" content=\"https://dailyluckcasino.nl/uploads/dailyluck-baner1-copy.webp\">",
@@ -187,9 +189,15 @@
   "color_highlight_text": "#ffd77b",
   "color_main_btn_text": "#ffffff",
   "cta_background": "#ffb103",
-  "logo": null,
-  "popup_logo": null,
-  "main_background_img": null,
+  "logo": {
+    "url": "/uploads/dailyluck-logo1.svg"
+  },
+  "popup_logo": {
+    "url": "/uploads/dailyluck-logo1.svg"
+  },
+  "main_background_img": {
+    "url": "/uploads/DailyLuck-baner.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
@@ -369,8 +377,8 @@
       "question": "Is Daily Luck the same casino as DailyLuck?"
     }
   ],
-  "_generated_at": "2026-11-13T16:14:10.405Z",
+  "_generated_at": "2026-11-17T11:54:22.572Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-13T16:14:11.040Z",
-  "_deploy_trigger": "tsjt86"
+  "_last_deploy": "2026-11-17T11:54:23.184Z",
+  "_deploy_trigger": "ernttf"
 }
